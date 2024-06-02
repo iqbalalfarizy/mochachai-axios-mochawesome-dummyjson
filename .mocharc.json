@@ -1,0 +1,9 @@
+{
+    "reporter" : "mochawesome",
+    "reporter-option" : [
+        
+        "reportDir=report_test",
+        "reportFilename=[datetime]_report_test",
+        "timestamp=yyyy-mm-dd-hh-MM-ss"
+    ]
+}
